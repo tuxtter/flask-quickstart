@@ -1,0 +1,7 @@
+#Ignorar venv folder
+tailwind-flask-venv/
+
+#Exclude node files
+node_modules/
+package-lock.json
+package.json
